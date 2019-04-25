@@ -2,14 +2,14 @@
 
 This mini-project is an exercise in the use of Python and some of its tools.
 
-1. Data Extraction
+#### Data Extraction
   * Beautiful Soup
   * Scrapy
-2. Analysis
+#### Analysis
   * Numpy
   * Pandas
   * (A little of) Scikit-learn
-3. Visualization
+#### Visualization
   * Matplotlib
 
 MMDA provides traffic data for all major lines in Metro Manila. For this mini-project, EDSA traffic data will be extracted, analyzed, and visualized from the following link: http://mmdatraffic.interaksyon.com/line-view-edsa.php. Since the data on-site updates periodically, this script is meant to be automated accordingly. Every run would include the collection, analysis, and visualization of the new data and will be incorporated into existing data.
