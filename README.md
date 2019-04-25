@@ -1,4 +1,4 @@
-# EDSA-Traffic-Analysis-and-Visualization
+## EDSA-Traffic-Analysis-and-Visualization
 
 This mini-project is an exercise in the use of Python and some of its tools.
 
@@ -16,9 +16,10 @@ MMDA provides traffic data for all major lines in Metro Manila. For this mini-pr
 
 Ideally, the mathematical models that will be applied during data analysis will process the data in a way that it "tells a story". These methods are applicable in numerous contexts that are useful both in theory and in practice as it offers an avenue to accurately predict future conditions. 
   
-*Note: other unrelated scripts are simply practice scripts. I decided to keep these scripts for future reference.
+*Note: other unrelated scripts are simply practice scripts. I decided to keep these scripts for future reference.*
+
 #### Additional Non-Core Changes to Follow: 
 1. Code clean-up 
 2. Line name fix
 3. Scrapy exploration
-*
+
