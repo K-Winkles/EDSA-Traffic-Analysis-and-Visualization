@@ -21,5 +21,6 @@ Ideally, the mathematical models that will be applied during data analysis will 
 #### Additional Non-Core Changes to Follow: 
 1. Code clean-up - define blocks of code 
 2. Line name fix
+3. Fix scatter plot for overall traffic data since they overlap 
 3. Scrapy exploration
 
