@@ -19,7 +19,7 @@ Ideally, the mathematical models that will be applied during data analysis will 
 *Note: other unrelated scripts are simply practice scripts. I decided to keep these scripts for future reference.*
 
 #### Additional Non-Core Changes to Follow: 
-1. Code clean-up 
+1. Code clean-up - define blocks of code 
 2. Line name fix
 3. Scrapy exploration
 
