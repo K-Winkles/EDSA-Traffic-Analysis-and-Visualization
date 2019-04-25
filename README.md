@@ -2,7 +2,7 @@
 
 This mini-project is an exercise in the use of Python and some of its tools.
 
-####Data extraction
+####Data Extraction
   * Beautiful Soup
   * Scrapy
 ####Analysis
