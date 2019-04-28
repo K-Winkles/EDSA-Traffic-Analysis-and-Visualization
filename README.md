@@ -20,3 +20,4 @@ Ideally, the mathematical models that will be applied during data analysis will 
 1. Line name fix
 2. Fix scatter plot for overall traffic data since they overlap 
 3. Import global libraries since other local imports are redundant
+4. Streamline other functions since other snippets repeat themselves
