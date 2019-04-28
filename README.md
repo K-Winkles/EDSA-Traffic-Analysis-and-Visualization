@@ -18,6 +18,4 @@ Ideally, the mathematical models that will be applied during data analysis will 
 
 #### Additional Non-Core Changes to Follow: 
 1. Line name fix
-2. Fix scatter plot for overall traffic data since they overlap 
-3. Import global libraries since other local imports are redundant
-4. Streamline other functions since other snippets repeat themselves
+2. Import global libraries since other local imports are redundant
