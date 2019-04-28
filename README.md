@@ -8,7 +8,7 @@ This mini-project is an exercise in the use of Python and some of its tools.
 #### Analysis
   * Numpy
   * Pandas
-  * (A little of) Scikit-learn
+  * Scikit-learn
 #### Visualization
   * Matplotlib
 
@@ -19,3 +19,4 @@ Ideally, the mathematical models that will be applied during data analysis will 
 #### Additional Non-Core Changes to Follow: 
 1. Line name fix
 2. Fix scatter plot for overall traffic data since they overlap 
+3. Import global libraries since other local imports are redundant
