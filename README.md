@@ -5,6 +5,7 @@ This mini-project is an exercise in the use of Python and some of its tools.
 #### Data Extraction
   * Beautiful Soup
   * Scrapy
+  * Selenium 
 #### Analysis
   * Numpy
   * Pandas
