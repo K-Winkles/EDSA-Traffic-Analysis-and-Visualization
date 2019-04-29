@@ -1,6 +1,6 @@
 ## EDSA-Traffic-Analysis-and-Visualization
 
-This mini-project is an exercise in the use of Python and some of its tools.
+This mini-project is an exercise in the use of Python and some of its tools. More than that, the data extracted by the script will most iikely be of use later on.
 
 #### Data Extraction
   * Beautiful Soup
