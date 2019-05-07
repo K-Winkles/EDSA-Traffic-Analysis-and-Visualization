@@ -24,7 +24,7 @@ At present, the script features polynomial regression as its primary tool of ana
 1. Line name fix
 2. Import global libraries since other local imports are redundant
 
-# EDSA Traffic Data: Analysis
+## EDSA Traffic Data: Analysis
 
 After an extraction period of 7 days, sufficient data has been collected in order to start munging. Pre-processing will be executed in the following manner:
 1. Collate data from raw .csv files
