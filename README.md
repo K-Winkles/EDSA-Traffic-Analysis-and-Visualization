@@ -23,3 +23,14 @@ At present, the script features polynomial regression as its primary tool of ana
 #### Additional Non-Core Changes to Follow: 
 1. Line name fix
 2. Import global libraries since other local imports are redundant
+
+# EDSA Traffic Data: Analysis
+
+After an extraction period of 7 days, sufficient data has been collected in order to start munging. Pre-processing will be executed in the following manner:
+1. Collate data from raw .csv files
+2. Separate aforementioned data into two 2-dimensional numpy arrays (southbound and northbound)
+3. Place data in such a way that it is arranged chronologically with respect to the individual lines
+4. Take the average for every 4 entries since this represents 1 hour 
+The last step is necessary since visualization and line fitting is unhelpful when considering the entire scope of raw data. Breaking the data into several pieces and analysing each set is more conducive for meaningful story telling. As was explained in the previous notebook, polynomial regression is the tool of choice for this task. 
+
+Note that during the 7-day timeframe of data extraction, there was a holiday in the middle of the week. To be more specific, it fell on a Wednesday. This factor will be taken into consideration when analyzing individual days. 
