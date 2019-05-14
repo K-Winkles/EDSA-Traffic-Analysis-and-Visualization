@@ -215,3 +215,48 @@ Exiting due to channel error.
 JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
 JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
 1557799266720	Marionette	INFO	Stopped listening on port 49871
+1557799910934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n5/m2pdwknx4qd4qlsmyx5pdc1m0000gp/T/rust_mozprofile.ScdIsy9CmCh7"
+1557799911359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557799911359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557799911359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557799912705	Marionette	INFO	Listening on port 50151
+1557799912775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+1557799931690	Marionette	INFO	Stopped listening on port 50151
+1557799939179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n5/m2pdwknx4qd4qlsmyx5pdc1m0000gp/T/rust_mozprofile.5Dyn2Wc57Qyq"
+1557799939652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557799939652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557799939652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557799940945	Marionette	INFO	Listening on port 50315
+1557799941023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+1557799984579	Marionette	INFO	Stopped listening on port 50315
+1557799992063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n5/m2pdwknx4qd4qlsmyx5pdc1m0000gp/T/rust_mozprofile.Rb5AaCmdi7uY"
+1557799992525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557799992525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557799992525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557799993890	Marionette	INFO	Listening on port 50493
+1557799993992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+1557800013491	Marionette	INFO	Stopped listening on port 50493
+1557800020997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n5/m2pdwknx4qd4qlsmyx5pdc1m0000gp/T/rust_mozprofile.pyR73fDGSGiI"
+1557800021440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557800021440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557800021440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557800022756	Marionette	INFO	Listening on port 50639
+1557800022840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+1557800035047	Marionette	INFO	Stopped listening on port 50639
+1557800042572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n5/m2pdwknx4qd4qlsmyx5pdc1m0000gp/T/rust_mozprofile.mRR0ex67F6at"
+1557800043006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557800043007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557800043007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557800044267	Marionette	INFO	Listening on port 50775
+1557800044302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://platform.twitter.com/widgets.js, line 1: SyntaxError: expected expression, got '<'
+1557800052983	Marionette	INFO	Stopped listening on port 50775
